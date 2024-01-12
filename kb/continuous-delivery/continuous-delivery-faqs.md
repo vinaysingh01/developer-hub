@@ -3963,7 +3963,7 @@ Yes, the feature `Artifact Bundle Support with Tanzu Application Deployments` as
 
 #### Does Harness provide Refresh Token Support with Tanzu App Service Deployment ?
 
-Yes, Harness now takes in a refresh token into the Tanzu connector associated behind the FF - `CDS_CF_TOKEN_AUTH`. You can get the refresh token from the cf config.json on the delegate. Please read more on this in the following [Documentation](https://developer.harness.io/docs/platform/connectors/cloud-providers/add-tas-connector#refresh-token-support)
+Yes, Harness now takes in a refresh token into the Tanzu connector associated. You can get the refresh token from the cf config.json on the delegate. Please read more on this in the following [Documentation](https://developer.harness.io/docs/platform/connectors/cloud-providers/add-tas-connector#refresh-token-support)
 
 #### Is there an official method in Harness to expose the connector, allowing GitHub requests to be made without storing a machine token within Harness ?
 
