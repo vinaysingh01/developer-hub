@@ -179,7 +179,6 @@ You can now propagate force cool down from primary rule to dependent rules. With
 * **Release date:** December 2023
 * **Release version:** 81820
 * **Issue number:** CDS-82763
-* **Feature flag:** `CDS_ECS_BG_VALIDATION`
 * **How to enable:** Contact [Harness Support](mailto:support@harness.io)
 
 If green services exist in your Blue Green deployment, you can configure Harness to update those services instead of deleting them and then re-creating them with a new manifest and artifact. Updating existing green services is beneficial because new containers come up before old ones go down. For more information, go to [Update green services](/docs/continuous-delivery/deploy-srv-diff-platforms/aws/ecs/ecs-deployment-tutorial/#update-green-services).
