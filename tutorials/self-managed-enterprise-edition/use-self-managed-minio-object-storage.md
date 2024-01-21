@@ -262,15 +262,15 @@ To configure your MinIO servers, do the following:
 
 10. Start the MinIO service.
 
-   ```
-   sudo systemctl start minio.service 
-   ```
+    ```
+    sudo systemctl start minio.service 
+    ```
 
 11. Check the MinIO status.
  
-   ```
-   sudo systemctl status minio.service
-   ```
+    ```
+    sudo systemctl status minio.service
+    ```
 
 12. Repeat the process for your other three VMs.
    
